@@ -1,19 +1,7 @@
 .container {
   min-height: 100vh;
+  width: 100%;
   padding: 0 0.5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.main {
-  padding: 5rem 0;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .footer {
@@ -44,10 +32,18 @@
 }
 
 .title {
-  margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: "Cinzel Decorative", cursive;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 8.2rem;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  padding: 8rem 0 4rem 0;
+  transform: scale(1.5);
 }
 
 .title,
@@ -58,11 +54,152 @@
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
+  margin-top: 10rem;
 }
 .border {
-  border-color:  #1b1b1b;
+  border-color: #1b1b1b;
   border-width: 1.5px;
   border-style: groove;
   border-radius: 2px;
   padding: 2.5px 5px;
+}
+
+.hero {
+  composes: container;
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+  transition: background 500ms ease-in;
+  background-image: linear-gradient(rgba(101, 101, 101, 0.6), rgba(255,255,255,0.9)), url('/test.jpg');
+
+}
+.heroImgBox {
+  overflow: hidden;
+  display: block;
+}
+@media (min-width: 768px) {
+  .heroImgBox {
+    height: 613px;
+  }
+}
+.heroImg {
+  object-fit: contain;
+  object-position: center;
+}
+.heroText {
+  position: fixed;
+  top: 0;
+}
+.title,
+.subtitle,
+.description {
+  text-transform: uppercase;
+  text-align: center;
+}
+.subtitle {
+  font-size: 2rem;
+  font-family: Futura, sans-serif;
+}
+.description {
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-size: 4rem;
+  font-family: Futura, sans-serif;
+}
+.description span {
+  display: block;
+}
+.body {
+  background: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 9rem;
+  padding-bottom: 6.6rem;
+}
+
+.footer {
+  width: 100%;
+  padding: 10px 0;
+  border-top: 1px solid #eaeaea;
+  text-align: center;
+  font-family: Averta-Bold;
+  font-size: 2.5rem;
+  line-height: 5rem;
+  letter-spacing: -0.01em;
+}
+
+.footer a {
+  color: #db3b0f;
+  margin: 0 10px;
+}
+
+.portfolioCard {
+  overflow: hidden;
+  position: relative;
+  width: 80%;
+  height: 40rem;
+  margin: 5rem auto 5rem auto;
+  background-image: linear-gradient(#fff, #dada);
+  border: 1px dotted #f3f3f3;
+  border-radius: 20px;
+}
+
+.portfolioCard:hover img {
+  filter: brightness(70%);
+}
+
+.portfolioCard:hover > .portfolioCardTextBox {
+  transform: translateX(0);
+}
+
+.portfolioCardTextBox {
+  background-color: #f3f3f3;
+  color: #000;
+  max-width: 45rem;
+  max-height: 20rem;
+  width: 100%;
+  position: absolute;
+  bottom: 7rem;
+  transition: all ease-in 0.3s;
+  padding: 2.5rem 1.5rem;
+  border-top-right-radius: 0.75rem;
+  border-bottom-right-radius: 0.75rem;
+  transform: translateX(-45rem);
+}
+.cardTitle {
+  composes: subtitle;
+  text-decoration: underline;
+  margin-bottom: 1.75rem;
+  display: inline-block;
+  font-family: "Cinzel Decorative", cursive;
+}
+.cardInfo{
+  font-size: .75rem;
+}
+@media (min-width: 425px) {
+  .title {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 768px) {
+  .title {
+    font-size: 5rem;
+  }
+}
+@media (min-width: 1024px) {
+  .portfolioCard {
+    width: 65%;
+    height: 42rem;
+    margin: 20rem auto 24rem auto;
+    transform: scale(1.36);
+  }
 }
