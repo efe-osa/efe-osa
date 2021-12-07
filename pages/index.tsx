@@ -147,7 +147,7 @@ export default function Home() {
             <figcaption className={styles.portfolioCardTextBox}>
               <a
                 className={styles.cardTitle}
-                href="http://equalmeasures2030.org"
+                href="https://rise-innovation.uk/"
                 target="_blank"
               >
                 Rise Research &amp; Innovation
