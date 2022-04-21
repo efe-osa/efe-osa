@@ -76,8 +76,7 @@
   position: relative;
   overflow: hidden;
   transition: background 500ms ease-in;
-  background-image: linear-gradient(rgba(101, 101, 101, 0.6), rgba(255,255,255,0.9)), url('/test.jpg');
-
+  background-image: linear-gradient(rgba(101, 101, 101, 0.6), rgba(255,255,255,0.9)), url('/photo-2.jpeg');
 }
 .heroImgBox {
   overflow: hidden;
@@ -86,6 +85,10 @@
 @media (min-width: 768px) {
   .heroImgBox {
     height: 613px;
+  }
+  .hero{
+    background-image: linear-gradient(rgba(101, 101, 101, 0.6), rgba(255,255,255,0.9)), url('/photo-1.jpeg');
+    background-size: 50vw;
   }
 }
 .heroImg {
@@ -138,8 +141,10 @@
 }
 
 .footer a {
-  color: #db3b0f;
   margin: 0 10px;
+}
+.footer a:hover {
+  transform: skew(-3deg);
 }
 
 .portfolioCard {

@@ -33,7 +33,7 @@ export default function Home() {
 
     if (mql.matches && cardRef.current && isInViewport(cardRef.current)) {
       console.log("scrollPosition :>> ", scrollPosition);
-      cardRef.current.style.transform = `scale(${1 + scrollPosition / 2000})`;
+      cardRef.current.style.transform = `scale(${100 + (scrollPosition / 25)}%)`;
     }
   }
   useEffect(() => {
