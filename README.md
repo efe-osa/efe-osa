@@ -3,7 +3,7 @@
 </div>
 <h2>Hi 👋</h2>
 
-<em>I'm experienced engineer building web applications 🖥 that are performant, scalable 📈 and user friendly 🙂. I'm eager about opportunities focused on positively improving and impacting human experiences. Can leverage the creative ideas 🎨 🖌 of other team members 🤝, share ideas and plans with co-workers or other teams on a project.</em>
+<em>I'm an experienced engineer building web applications 🖥 that are performant, scalable 📈 and user friendly 🙂. I'm eager about opportunities focused on positively improving and impacting human experiences. Can leverage the creative ideas 🎨 🖌 of other team members 🤝, share ideas and plans with co-workers or other teams on a project.</em>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efe-osa" alt="efe-osa" /></a> </p>
