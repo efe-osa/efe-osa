@@ -4,10 +4,7 @@
 <h2>Hi 👋</h2>
 
 <em>I'm an experienced engineer building web applications 🖥 that are performant, scalable 📈 and user friendly 🙂. I'm eager about opportunities focused on positively improving and impacting human experiences. Can leverage the creative ideas 🎨 🖌 of other team members 🤝, share ideas and plans with co-workers or other teams on a project.</em>
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efe-osa" alt="efe-osa" /></a> </p>
- -->
+&nbsp;
 - 🌱 I’m currently learning **cloud computing, python & product management**
 
 - 👯 I’m looking to collaborate on **agriculture, health & wellness projects**
@@ -17,7 +14,7 @@
 - 💬 Ask me about **React, Javascript & Typescript**
 
 - ⚡ Fun fact **I think I am adventurous.**
-
+&nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/efe-osa-osawaru-oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/efe-osa-osawaru-oyelade" height="30" width="40" /></a>
