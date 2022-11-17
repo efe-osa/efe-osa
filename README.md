@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **agriculture, health & wellness projects**
 
-- 👨‍💻 Some of my projects are available at [http://efeosawaruoyelade.com/](http://efeosawaruoyelade.com/)
+<!-- - 👨‍💻 Some of my projects are available at [http://efeosawaruoyelade.com/](http://efeosawaruoyelade.com/) -->
 
 - 💬 Ask me about **React, Javascript & Typescript**
 
