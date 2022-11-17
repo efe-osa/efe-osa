@@ -5,7 +5,7 @@
 
 <em>I'm an experienced engineer building web applications 🖥 that are performant, scalable 📈 and user friendly 🙂. I'm eager about opportunities focused on positively improving and impacting human experiences. Can leverage the creative ideas 🎨 🖌 of other team members 🤝, share ideas and plans with co-workers or other teams on a project.</em>
 &nbsp;
-- 🌱 I’m currently learning **cloud computing & product management**
+<!-- - 🌱 I’m currently learning **cloud computing & product management** -->
 
 - 👯 I’m looking to collaborate on **agriculture, health & wellness projects**
 
