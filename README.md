@@ -11,10 +11,8 @@
 
 <!-- - 👨‍💻 Some of my projects are available at [http://efeosawaruoyelade.com/](http://efeosawaruoyelade.com/) -->
 
-- 💬 Ask me about **React, Javascript & Typescript**
+- 💬 Ask me about **C#, React, Javascript & Typescript**
 
-- ⚡ Fun fact **I think I am adventurous.**
-&nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/efe-osa-osawaru-oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/efe-osa-osawaru-oyelade" height="30" width="40" /></a>
