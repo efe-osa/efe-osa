@@ -7,7 +7,7 @@
 &nbsp;
 <!-- - 🌱 I’m currently learning **cloud computing & product management** -->
 
-- 👯 I’m looking to collaborate on **agriculture, health & wellness projects**
+- 👯 I’m looking to collaborate on **agriculture, health & finance products/projects**
 
 <!-- - 👨‍💻 Some of my projects are available at [http://efeosawaruoyelade.com/](http://efeosawaruoyelade.com/) -->
 
