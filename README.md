@@ -1,5 +1,6 @@
 <div align="center">
-<img width="100%" height = "200px" src="https://user-images.githubusercontent.com/32354313/201504750-eebadf0a-0985-450c-8516-1321c048186e.png" alt="cover" />
+  <img width="1584" height="396" alt="cover" src="https://github.com/user-attachments/assets/4553aff8-c3c8-4d5c-9310-81d47eb41ff1" />
+
 </div>
 
 <h2>About Me 👋</h2>
