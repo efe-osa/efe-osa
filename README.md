@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="1584" height="396" alt="cover" src="https://github.com/user-attachments/assets/4553aff8-c3c8-4d5c-9310-81d47eb41ff1" />
-
+<img width="1584" height="396" alt="Yellow and Black Global Response Engineer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/e54b4860-8923-45d9-a2e6-d1f246645e49" />
 </div>
 
 <h2>About Me 👋</h2>
