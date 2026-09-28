@@ -4,7 +4,7 @@
 
 <h2>About Me 👋</h2>
 
-<p>I'm a software engineer building web applications 🖥 that are performant, scalable 📈 and user friendly 🙂. I'm eager for opportunities focused on improving and positively impacting human experiences. Can leverage the creative ideas 🎨 🖌 of other team members 🤝, share ideas and plans with co-workers or other teams on a project.</p>
+<p>I'm a software engineer building web applications and systems 🖥 that are performant, scalable 📈 and user-friendly 🙂. I'm eager for opportunities focused on improving and positively impacting human experiences. Adept at leveraging the creative ideas 🎨 🖌 of other team members 🤝, sharing new ideas and planning individually and with teams on a project.</p>
 &nbsp;
 
 🌱 I’m currently learning about **data engineering & product leadership** 
