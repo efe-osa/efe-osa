@@ -13,8 +13,7 @@
 - **Programming Languages**:  JavaScript (ES6+), TypeScript, C#, SQL, Python, Semantic HTML/CSS  
 - **Frameworks & Libraries**:  React, Next JS,  TanStack, Fluxor, Redux, React-Router, ASP.NET Core, Blazor, Web Components.
 - **Styling**:  Tailwind CSS, Styled-components, Bootstrap, CSS Modules, SCSS, Design Systems, Figma, Sketch  
-- **Cloud & Tools**:  Node JS, .NET, GraphQL, PostgreSQL, Sentry/Grafana, React Testing Library, xUnit, Jest, Cypress, Playwright, Git (and related workflows), Docker, Babel, Webpack, ESLint, Prettier, WordPress CMS, Digital Ocean, Azure, AWS  
-- **Core Competencies**:  Full-Stack & Frontend Architecture, Scalable System Design, Component-Driven Architecture, Mentoring & Knowledge Sharing, Agile Development, AI-Assisted Development & Integration (Claude Code, GitHub Copilot, Langchain), internationalization (i18n), Accessibility (a11y) & Performance Optimisation, CI/CD & Code Reviews 
+- **Cloud & Tools**:  Node JS, .NET, GraphQL, PostgreSQL, Sentry/Grafana, React Testing Library, xUnit, Jest, Cypress, Playwright, Git (and related workflows), Docker, Babel, Webpack, ESLint, Prettier, WordPress CMS, Digital Ocean, Azure, AWS
 
 ### Connect with me
 
